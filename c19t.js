@@ -1,4 +1,4 @@
-import bleno from "bleno"
+import bleno from "@abandonware/bleno"
 import rollingId from "./rollingId.js"
 import advertise from "./advertise.js"
 

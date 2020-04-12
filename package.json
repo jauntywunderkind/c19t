@@ -1,0 +1,22 @@
+{
+	"name": "c19t",
+	"version": "1.0.0",
+	"description": "Tools to broadcast and view Contact Tracing data",
+	"main": "c19t.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://archive.voodoowarez.com/c19t"
+	},
+	"keywords": [],
+	"author": "jauntywunderkind",
+	"license": "MIT",
+	"module": "c19t.js",
+	"esm": true,
+	"type": "module",
+	"dependencies": {
+		"@abandonware/bleno": "^0.5.1-2"
+	}
+}
